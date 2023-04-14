@@ -13,4 +13,5 @@ The original Twins dataset can be downloaded from https://github.com/AMLab Amste
 Please open config.txt and modify relevant parameter flags to remain the parameters the same as in our paper. Then do the same as IHDP experiments to reproduce the results.
 
 For Credit experiments:
-The 100 Credit datasets are saved in the file "Credit dataset". The number xxx in "credit_xxx_1-100.test.npz" means the removal ratio. Please open config.txt and modify relevant parameters as used in our paper. Then do the same as IHDP experiments to reproduce the results.
+The 100 Credit datasets are saved in the file "Credit dataset". The number xxx in "credit_xxx_1-100.test.npz" means the removal ratio. 
+Please open config.txt and modify relevant parameters as used in our paper. Then do the same as IHDP experiments to reproduce the results.
