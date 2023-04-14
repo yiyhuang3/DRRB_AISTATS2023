@@ -10,7 +10,8 @@ After the python process stops, you can open evaluate.py and directly run it. Th
 For Twins experiments:
 The original Twins dataset can be downloaded from https://github.com/AMLab Amsterdam/CEVAE/tree/master/datasets/TWINS. 
 100 Twins dataset is generated using the original Twins dataset, and the specific data generating process is the same as https://github.com/jsyoon0823/GANITE/blob/master/data_loading.py.
-Please open config.txt and modify relevant parameter flags to remain the parameters the same as in our paper. Then do the same as IHDP experiments to reproduce the results.
+Please open config.txt and modify relevant parameter flags to remain the parameters the same as in our paper. 
+Then do the same as IHDP experiments to reproduce the results.
 
 For Credit experiments:
 The 100 Credit datasets are saved in the file "Credit dataset". The number xxx in "credit_xxx_1-100.test.npz" means the removal ratio. 
