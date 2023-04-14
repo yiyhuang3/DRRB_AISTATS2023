@@ -1,5 +1,3 @@
-Additional supplements to the main paper can be found in the file "Appendix.pdf".
-
 The codes for replicating IHDP, Twins, and Credit experiments are packed in the file "code for DRRB".
 
 For IHDP experiments:
